@@ -1,0 +1,61 @@
+SJCE Boys hostel:12.311861, 76.613356
+Entrance/Main gate:12.313102, 76.615170
+Gate2:12.318431, 76.614722
+Gate2 parking:12.318212, 76.613714
+STEP:12.315922, 76.613270
+SJCE Hockey court:12.314014, 76.614306
+SJCE Cricket ground:12.316970, 76.610139
+SJCE Basket Ball court:12.312684, 76.614416
+Nagaraj tennis:12.311825, 76.614629
+SJCE Football ground:12.314305, 76.614348
+Canara/Syndicate bank:12.317683, 76.614010
+JSS Polytechnic:12.315675, 76.609269
+JSS Polytechnic for Women:12.318935, 76.613975
+JSS Centre for Management studies:12.317661, 76.614275
+JSS Polytechnic hostel:12.315180, 76.609531
+JSS Polytechnic for Differently Abled:12.317542, 76.613332
+JSS Poltechnic Canteen:12.316515, 76.609347
+JSS Public School CBSE:12.318218, 76.608678
+Ganesh temple:12.312960, 76.612804
+Library:12.313447, 76.613321
+Punjab National Bank:12.313611, 76.614854
+Cafe Frappe:12.313950, 76.614819
+Yampa:12.313802, 76.614860
+Mylari:12.316730, 76.613007
+Cafe Khushi:12.314093, 76.614840
+SJCE Stationary:12.313703, 76.614793
+Nescafe:12.314510, 76.612447
+Pot circle:12.313065, 76.614113
+Admin/Office:12.313190, 76.613597
+Sri Shivratri Swamiji Statue:12.312838, 76.613981
+Gym:12.312223, 76.614409
+Parking near depts:12.314458, 76.613781
+Bikestand near Nescafe:12.315005, 76.612484
+Entrance parking:12.313247, 76.614897
+Golden Jubilee Auditorium:12.316379, 76.613997
+IS Seminar hall:12.315937, 76.614177
+SJCE Quadrangle:12.313414, 76.613185
+SJCE Co-operative Society:12.312807, 76.613773
+MCV zerox:12.312750, 76.613667
+Mech Auditorium:12.314274, 76.612600
+Software Technology Parks of India:12.315867, 76.612864
+Vigyanlabs Innovations Private Limited:12.315896, 76.612962
+MDBS Tech Private Limited:12.315947, 76.612375
+Vuon Technologies Pvt. Ltd.:12.316182, 76.612266
+SJCE Placement and Training:12.316871, 76.613998
+IP:12.315146, 76.613407
+IS:12.316033, 76.614095
+CS:12.316712, 76.614109
+EC:12.313259, 76.613505
+EEE:12.313222, 76.612735
+Mech:12.313866, 76.612637
+env:12.314770, 76.613285 
+biotech:12.314795, 76.613105
+civil
+chemistry
+ctm
+instrumentation tech
+Industrial production
+mathematics
+physics
+polymer science

@@ -1,0 +1,61 @@
+Sjce boys hostel - 12.311787, 76.613281
+entrance/ main gate - 12.313102, 76.615170
+gate 2 - 12.318431, 76.614722
+gate2 parking - 12.318234, 76.613658
+STEP ----------------- 12.315918, 76.613243
+SJCE hockey ground -------------- 12.313948, 76.614308
+sjce cricket ground --------- 12.316917, 76.610003
+sjce basket ball court ---------- 12.312739, 76.614398
+nagraj tennis ---------- 12.311778, 76.614680
+football ground ---------- 12.314976, 76.614262
+canara/syndicate bank ---------- 12.317751, 76.613991
+jss polytechnic ----------- 12.315717, 76.609212
+jss polytechnic for women ---------- 12.318934, 76.614041
+jss centre for management studies ---------- 12.317693, 76.614265
+jss poltechnic hostel --------- 12.315180, 76.609531
+jss polytechnic for differntly abled ------------ 12.317511, 76.613372
+jss poltechnic canteen ----- 12.316443, 76.609182
+jss public school ----------- 12.318135, 76.608690
+ganesh temple --------- 12.312978, 76.612803
+library ---------- 12.313414, 76.613346
+pnb --------- 12.313611, 76.614854
+cafe frappe ------------- 12.313940, 76.614864
+yampa ---------- 12.313802, 76.614860
+mylari -------- 12.316730, 76.613007
+khushi something ------------- 12.314093, 76.614840
+stationary ---------- 12.313678, 76.614837
+nescafe ----------- 12.314469, 76.612543
+pot circle --- 12.313065, 76.614113
+admin/office ------------- 12.313190, 76.613597
+swamiji statue ------------- 12.312838, 76.613981
+gym ------ 12.312261, 76.614602
+parking near depts ---------- 12.314458, 76.613781
+bikestand near nescafe --------- 12.314899, 76.612495
+bike parking near gate1 ---------- 12.312950, 76.614112
+entrance parking ------- 12.313247, 76.614897
+golden jubilee auditorium -------------- 12.316328, 76.613984
+IS seminar hall --------- 12.315896, 76.614178
+sjce quadrangle  ----------- 12.313420, 76.613170
+sjce co operative society ----------- 12.312807, 76.613773
+MCV zerox ------- 12.312750, 76.613667
+mech audi -------- 12.314274, 76.612600
+software technology parks of in ---------- 12.315843, 76.612834
+vignyan labs --------- 12.315912, 76.612922
+MDBS tech ---------- 12.315971, 76.612382
+vuon techs ------- 12.316131, 76.612304
+IP --------- 12.315115, 76.613473
+IS ----------- 12.315972, 76.614030
+CS ---------- 12.316642, 76.614085
+EC ------------ 12.313259, 76.613505
+EEE --------- 12.313222, 76.612735
+Mech ---------- 12.313866, 76.612637
+env ------------ 12.314770, 76.613285 
+biotech ---- 12.314773, 76.613105
+civil
+chemistry
+ctm
+instrumentation tech
+Industrial production
+mathematics
+physics
+polymer science
