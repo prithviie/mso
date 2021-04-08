@@ -1,9 +1,11 @@
 import cv2
 import numpy as np
+from os import system
+system('clear')
 
 def get_tracks(input_image, output_image):
 
-    img = cv2.imread(input_image, 1)
+    img = cv2.imread(input_image)
     # print(img.shape)
 
     hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
@@ -19,7 +21,7 @@ def get_tracks(input_image, output_image):
 
     res = cv2.bitwise_not(res)
     # res = cv2.resize(res, (0, 0), fx=1.75, fy=1.75)
-    cv2.imshow('neg-res',res)
+    cv2.imshow('neg-res', res)
 
     # cv2.imwrite(output_image, res)
 
@@ -27,4 +29,4 @@ def get_tracks(input_image, output_image):
     cv2.destroyAllWindows()
 
 
-get_tracks('map-test.png', 'map-test-tracks.png')
+get_tracks('./further_improvements/map-test.png', './further_improvements/map-test-tracks.png')
