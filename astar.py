@@ -444,8 +444,8 @@ def main(width, height, map_image, output_image, locs_with_cors):
         pass
 
 
-map_image = 'final-map.png'
-output_image = 'final-output-from-astar.png'
+map_image = 'map.png'
+output_image = 'output.png'
 
 im = Image.open(map_image)
 WIDTH, HEIGHT = im.size

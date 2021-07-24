@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 from os import system
-system('clear')
+# system('clear')
 
 def get_tracks(input_image, output_image):
 
@@ -29,4 +29,23 @@ def get_tracks(input_image, output_image):
     cv2.destroyAllWindows()
 
 
-get_tracks('./further_improvements/map-test.png', './further_improvements/map-test-tracks.png')
+# get_tracks('./further_improvements/map-test.png', './further_improvements/map-test-tracks.png')
+
+
+img = cv2.imread('./further_improvements/map-test.png')
+
+# convert to grayscale
+img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+
+# edge detection
+img_edge_detector = cv2.Canny(img_gray, 100, 200)
+
+# dilation
+kernel = np.ones((3,3), np.uint8)
+# print(kernel)
+img_dilated = cv2.dilate(img_edge_detector, kernel, iterations=1)
+
+cv2.imshow("original", img)
+cv2.imshow("original", img_dilated)
+
+cv2.waitKey(0)

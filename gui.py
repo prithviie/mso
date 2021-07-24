@@ -2,12 +2,6 @@ from tkinter import *
 from PIL import ImageTk, Image
 from astar import *
 
-map_image = 'final-map.png'
-output_image = 'final-output-from-astar.png'
-
-im = Image.open(map_image)
-WIDTH, HEIGHT = im.size
-
 start_color_code = None
 end_color_code = None
 
@@ -93,12 +87,12 @@ def findPath():
 
 root = Tk()
 
-root.title("SJCEMap")
+root.title("SJCE-Map")
 top = Toplevel()
 top.title("Services")
 
 # top.geometry("400x400")
-myImg = ImageTk.PhotoImage(Image.open("final-map.png"))
+myImg = ImageTk.PhotoImage(Image.open(map_image))
 myLabel = Label(image=myImg)
 myLabel.pack()
 
